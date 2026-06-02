@@ -1,5 +1,8 @@
 # pi-workspace-id
 
+> [!NOTE]
+> Moved to: https://github.com/taviks/pi-tools
+
 A tiny wrapper for [`pi`](https://github.com/badlogic/pi-mono) that keeps session history stable across directory renames/moves by using a persistent workspace ID.
 
 ## Why
